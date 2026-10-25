@@ -5,9 +5,16 @@ Dashboard interativo em **Streamlit** que reúne:
 - **Parte 1** — análise descritiva: KPIs, estados com mais acidentes, principais causas, acidentes com vítimas fatais, evolução mensal, mapa de calor e mapa geográfico.
 - **Parte 2 / CP2** — modelagem preditiva: classificação binária (acidente com vítimas fatais ou não) com XGBoost, métricas, matriz de confusão, importância das variáveis e simulador de probabilidade.
 
-**Turma:** 2CCPW · **Integrantes:** _(preencher)_
+**Turma:** 2CCPW · 
 
-**App online:** _(colar aqui a URL do Streamlit Community Cloud)_
+**Integrantes:**
+ 
+- Guilherme Ferraz (RM: 564743)
+- Roberto Marques (RM: 564935)
+- Manoela Oliveira Bello (RM: 563952)
+- Felipe Rodrigues Ribeiro dos Santos (RM: 565274)
+
+**App online:** https://segurancanasrodovias.streamlit.app/
 
 ## Fonte dos dados
 
